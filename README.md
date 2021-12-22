@@ -1,3 +1,1 @@
-<img width="504" alt="richtig" src="file:///C:/Users/Bianka/Downloads/logo-removebg-preview.png">
-
-
+<img width="347" alt="logo-removebg-preview" src="https://user-images.githubusercontent.com/89902464/147149854-8829a3e1-2625-4f63-a516-c5af23a969b6.png">
