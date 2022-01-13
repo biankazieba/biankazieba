@@ -1,1 +1,1 @@
-<img width="700" alt="logo-removebg-preview" src="file:///C:/Users/Bianka/Downloads/Screenshot%202022-01-13%20102108.png">
+<img width="700" alt="logo" src="https://tbzedu-my.sharepoint.com/personal/bianka_zieba_edu_tbz_ch/Documents/Desktop/logo_white_large.png?Web=1">
