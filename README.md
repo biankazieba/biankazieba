@@ -1,1 +1,1 @@
-![logo](logo_white_large.png =100x20)
+![](logo_white_large.png =100x20)
