@@ -1,1 +1,1 @@
-![logo](logo_white_large.png width=50%)
+![logo](logo_white_large.png)
