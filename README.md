@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/biankazieba">Bibi</a>'s Profile 👋</h1>
 </p>
 
-<img align="right" src="img\cartoon.png">
+<img align="right" src="cartoon.png">
 <ul>
   <li>👋 Hi, I’m Bianka</li>
   <li>🎉 16 yo</li>
