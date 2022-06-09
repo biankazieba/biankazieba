@@ -3,6 +3,8 @@
 </p>
 
 <img align="right" src="cartoon.png">
+<br>
+<br>
 <ul>
   <li>👋 Hi, I’m Bianka</li>
   <li>🎉 16 yo</li>
