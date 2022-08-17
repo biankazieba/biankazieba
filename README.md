@@ -9,7 +9,7 @@
   <li>👋 Hi, I’m Bianka</li>
   <li>🎉 16 yo</li>
   <li>❤️ I love Designing Websites</li>
-  <li>🌱 I’m currently learning using PHP on Websites</li>
+  <li>🌱 I’m currently learning using Bootstrap & TYPO3</li>
   <li>💼 Apprentice at Snowflake Productions</li>
   <li>🧐 <a href="https://biankazieba.ch">My own Website</a></li>
 </ul>
@@ -27,9 +27,8 @@
 
 **I’m currently working on...** 
 ```text
-🏆 Final Project --> Food Diary Website
 
-📜 Learning PHP
+📜 Learning Bootstrap & TYPO3
 
 🔑 Portfolio Website
 ```
