@@ -7,10 +7,10 @@
 <br>
 <ul>
   <li>👋 Hi, I’m Bianka</li>
-  <li>🎉 16 yo</li>
+  <li>🎉 17 yo</li>
   <li>❤️ I love Designing Websites</li>
-  <li>🌱 I’m currently learning using Bootstrap & TYPO3</li>
-  <li>💼 Apprentice at Snowflake Productions</li>
+  <li>🌱 I’m currently learning using Next.js and Typescript</li>
+  <li>💼 Apprentice at Sunrise GmbH</li>
   <li>🧐 <a href="https://biankazieba.ch">My own Website</a></li>
 </ul>
 
