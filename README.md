@@ -24,11 +24,3 @@
 
 <br>
 
-**I’m currently working on...** 
-```text
-
-📜 Learning Bootstrap & TYPO3
-
-🔑 Portfolio Website
-```
-------
