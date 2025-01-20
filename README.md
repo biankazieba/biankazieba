@@ -7,8 +7,6 @@
 <br>
 <ul>
   <li>👋 Hi, I’m Bianka</li>
-  <li>🎉 18 yo</li>
-  <li>🌱 I’m currently learning using Next.js and Typescript</li>
   <li>💼 Apprentice at Sunrise GmbH</li>
   <li>🧐 <a href="https://biankazieba.ch">My own Website</a></li>
 </ul>
