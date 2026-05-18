@@ -7,7 +7,7 @@
 <br>
 <ul>
   <li>👋 Hi, I’m Bianka</li>
-  <li>💼 Apprentice at Sunrise GmbH</li>
+  <li>💼 Developer OMNI Channel at Sunrise AG</li>
   <li>🧐 <a href="https://biankazieba.ch">My own Website</a></li>
 </ul>
 
